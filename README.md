@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data analytics
 - 🌱 I’m currently learning Power BI and API
 - 💞️ I’m looking to collaborate on Finance and Healthcare projects
-- 📫 How to reach me 
+- 📫 C.Mamutt7@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy metal concerts and video games :)
 
