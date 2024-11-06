@@ -10,7 +10,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Mamutt7/Lab-1-Creating-VMs-in-Azure)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Mamutt7/Lab-2-Azure-Networking-with-VMs)
  - <b>VPNs<b>
-  - [Setup and Usage of ProtonVPN](https://github.com/Mamutt7/Lab-4-VPN-Setup-and-Usage-ProtonVPN-)
+   - [Setup and Usage of ProtonVPN](https://github.com/Mamutt7/Lab-4-VPN-Setup-and-Usage-ProtonVPN-)
 - <b>Working with Active Directory<b>
   - [Preparing AD Infrastructure in Azure](https://github.com/Mamutt7/Lab-5.1-Preparing-AD-Infrastructure-in-Azure)
   - [Deploying Active Directory](https://github.com/Mamutt7/Lab-5.2-Deploying-Active-Directory)
