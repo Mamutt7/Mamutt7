@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/Mamutt7/Lab-3.2-osTicket-Post-Installation)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Mamutt7/Lab-3.3-Ticket-and-Ticket-Life-Cycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Mamutt7/Lab-1-Creating-VMs-in-Azure)
+  - [Creating Azure VMs](https://github.com/Mamutt7/Lab-1-Creating-VMs-in-Azure)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Mamutt7/Lab-2-Azure-Networking-with-VMs)
  - <b>VPNs<b>
    - [Setup and Usage of ProtonVPN](https://github.com/Mamutt7/Lab-4-VPN-Setup-and-Usage-ProtonVPN-)
