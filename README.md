@@ -2,6 +2,11 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+- <b>Linux System Management</b>
+  - [Linux SM Script](https://github.com/Mamutt7/Linux-System-Management-Script-Collection)
+- <b>Automation</b>
+  - [Automation with Azure CLI](https://github.com/Mamutt7/Automation-with-Azure-CLI)
+    
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Mamutt7/Lab-3.1-osTicket-Setup)
   - [osTicket: Post-Installation Configuration](https://github.com/Mamutt7/Lab-3.2-osTicket-Post-Installation)
