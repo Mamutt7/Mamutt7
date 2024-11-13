@@ -4,7 +4,7 @@
 
 - <b>Linux System Management</b>
   - [Linux SM Script](https://github.com/Mamutt7/Linux-System-Management-Script-Collection)
-- <b>Automation</b>
+- <b>Cloud Automation</b>
   - [Automation with Azure CLI](https://github.com/Mamutt7/Automation-with-Azure-CLI)
     
 - <b>osTicket (Help Desk Ticketing System)</b>
