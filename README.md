@@ -6,6 +6,8 @@
   - [Linux SM Script](https://github.com/Mamutt7/Linux-System-Management-Script-Collection)
 - <b>Cloud Automation</b>
   - [Automation with Azure CLI](https://github.com/Mamutt7/Automation-with-Azure-CLI)
+- <b>Azure Bicep</b>
+  - [Azure Bicep in Azure CLI](https://github.com/Mamutt7/Azure-Bicep-Beginner-Project)
     
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Mamutt7/Lab-3.1-osTicket-Setup)
