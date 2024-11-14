@@ -8,7 +8,8 @@
   - [Automation with Azure CLI](https://github.com/Mamutt7/Automation-with-Azure-CLI)
 - <b>Infrastructure as Code (IaC)</b>
   - [Azure Bicep in Azure CLI](https://github.com/Mamutt7/Azure-Bicep-Beginner-Project)
-    
+- <b>CI/CD</b>
+  - [Github Actions to Azure App Service: Deployment of Web App](https://github.com/Mamutt7/Deployment-of-Web-App)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Mamutt7/Lab-3.1-osTicket-Setup)
   - [osTicket: Post-Installation Configuration](https://github.com/Mamutt7/Lab-3.2-osTicket-Post-Installation)
