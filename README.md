@@ -5,6 +5,7 @@
 - <b>Linux System Management</b>
   - [Linux SM Script](https://github.com/Mamutt7/Linux-System-Management-Script-Collection)
   - [Linux System Monitoring](https://github.com/Mamutt7/Linux-System-Monitoring-Script/blob/main/README.md)
+  - [Linux File Management practice](https://github.com/Mamutt7/File-Management-and-Permissions-Script/blob/main/README.md)
 - <b>Cloud Automation</b>
   - [Automation with Azure CLI](https://github.com/Mamutt7/Automation-with-Azure-CLI)
 - <b>Infrastructure as Code (IaC)</b>
