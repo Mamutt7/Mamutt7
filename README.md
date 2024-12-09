@@ -13,7 +13,8 @@
   - [Add and Manage Users](https://github.com/Mamutt7/Add-and-manage-users-with-Linux-commands)
   - [Using man, whatis, and apropos](https://github.com/Mamutt7/Get-help-in-the-Linux-Command-Line)
 - <b>SQL
-  - [Performing a SQL Query](https://github.com/Mamutt7/Perform-a-SQL-Query) 
+  - [Performing a SQL Query](https://github.com/Mamutt7/Perform-a-SQL-Query)
+  - [Filter a SQL Query](https://github.com/Mamutt7/Filter-a-SQL-Query/blob/main/README.md)
 
 - <b>Cloud Automation</b>
   - [Automation with Azure CLI](https://github.com/Mamutt7/Automation-with-Azure-CLI)
