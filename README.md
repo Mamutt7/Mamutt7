@@ -6,6 +6,12 @@
   - [Linux SM Script](https://github.com/Mamutt7/Linux-System-Management-Script-Collection)
   - [Linux System Monitoring](https://github.com/Mamutt7/Linux-System-Monitoring-Script/blob/main/README.md)
   - [Linux File Management practice](https://github.com/Mamutt7/File-Management-and-Permissions-Script/blob/main/README.md)
+  - [Install Software in a Linux Distribution](https://github.com/Mamutt7/Install-Software-in-a-Linux-distribution)
+  - [Filter-with-grep](https://github.com/Mamutt7/Filter-with-grep)
+  - [Manage-Files-with-Linux-commands](https://github.com/Mamutt7/Manage-Files-with-Linux-commands)
+  - [Managing-authorization](https://github.com/Mamutt7/Manage-authorization)
+  - [Add and Manage Users](https://github.com/Mamutt7/Add-and-manage-users-with-Linux-commands)
+  - [Using man, whatis, and apropos](https://github.com/Mamutt7/Get-help-in-the-Linux-Command-Line)
 - <b>Cloud Automation</b>
   - [Automation with Azure CLI](https://github.com/Mamutt7/Automation-with-Azure-CLI)
 - <b>Infrastructure as Code (IaC)</b>
