@@ -15,6 +15,7 @@
 - <b>SQL
   - [Performing a SQL Query](https://github.com/Mamutt7/Perform-a-SQL-Query)
   - [Filter a SQL Query](https://github.com/Mamutt7/Filter-a-SQL-Query/blob/main/README.md)
+  - [Applying more filters in SQL](https://github.com/Mamutt7/Apply-more-filters-in-SQL/blob/main/README.md)
 
 - <b>Cloud Automation</b>
   - [Automation with Azure CLI](https://github.com/Mamutt7/Automation-with-Azure-CLI)
