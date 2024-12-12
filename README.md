@@ -17,6 +17,7 @@
   - [Filter a SQL Query](https://github.com/Mamutt7/Filter-a-SQL-Query/blob/main/README.md)
   - [Applying more filters in SQL](https://github.com/Mamutt7/Apply-more-filters-in-SQL/blob/main/README.md)
   - [Filter with AND, OR, and NOT](https://github.com/Mamutt7/Filter-with-AND-OR-and-NOT)
+  - [Complete a SQL join](https://github.com/Mamutt7/Complete-a-SQL-join/blob/main/README.md)
 
 - <b>Cloud Automation</b>
   - [Automation with Azure CLI](https://github.com/Mamutt7/Automation-with-Azure-CLI)
