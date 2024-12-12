@@ -1,4 +1,4 @@
-<h1>Hi, I'm Christian Mamutt, an <a href="https://linkedin.com/in/Christianmamutt">IT Professional</a>☺</h1>
+<h1>Hi, I'm Christian Mamutt, a <a href="https://linkedin.com/in/Christianmamutt">Systems Administrator</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
