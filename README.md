@@ -1,4 +1,9 @@
-<h1>Hi, I'm Christian Mamutt, a <a href="https://linkedin.com/in/Christianmamutt">Systems Administrator</a>☺</h1>
+<h1>Hi, I'm Christian Mamutt, a <a href="https://linkedin.com/in/Christianmamutt">IT Professional</a>☺</h1>
+
+<h2>🔒 Cybersecurity Projects:</h2>
+- <b>Linux System Management</b>
+  - [Ransomware Incident Response Journal](https://github.com/Mamutt7/Ransomware-Incident-Response-Journal)
+
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
