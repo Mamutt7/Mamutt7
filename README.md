@@ -1,7 +1,8 @@
 <h1>Hi, I'm Christian Mamutt, a <a href="https://linkedin.com/in/Christianmamutt">IT Professional</a>☺</h1>
 
 <h2>🔒 Cybersecurity Projects:</h2>
-- <b>Linux System Management</b>
+
+- <b>Incident Response</b>
   - [Ransomware Incident Response Journal](https://github.com/Mamutt7/Ransomware-Incident-Response-Journal)
 
 
