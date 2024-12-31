@@ -1,58 +1,89 @@
-<h1>Hi, I'm Christian Mamutt, a <a href="https://linkedin.com/in/Christianmamutt">IT Professional</a>☺</h1>
+<h1>Hi, I'm Christian Mamutt, a <a href="https://linkedin.com/in/Christianmamutt">Cybersecurity Professional</a> focused on becoming a SOC Analyst ☺</h1>
 
-<h2>🔒 Cybersecurity Projects:</h2>
+<p>
+I am passionate about securing systems and detecting threats. Outside of work, here’s what I love:  
+</p>
 
-- <b>Incident Response</b>
+<ul>
+  <li>🎸 Metal music - I’m always exploring heavy riffs and killer solos.</li>
+  <li>🎮 Gaming - From FPS to RPGs, I enjoy diving into virtual worlds.</li>
+  <li>🏋️‍♂️ Lifting weights - Pushing limits in the gym is my therapy.</li>
+</ul>
 
-  - [Ransomware Incident Response Journal](https://github.com/Mamutt7/Ransomware-Incident-Response-Journal)
-  - [Analyzing Packets with Wireshark](https://github.com/Mamutt7/Analyzing-Packets-with-Wireshark/blob/main/README.md)
+---
 
+## 🔒 Cybersecurity & SOC Analyst Projects
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+### Incident Response
+- **[Ransomware Incident Response Journal](https://github.com/Mamutt7/Ransomware-Incident-Response-Journal)**  
+  - Investigated a simulated ransomware attack using industry-standard IR techniques.  
+  - **Tools:** Wireshark, Splunk, PowerShell  
+  - **Outcome:** Created actionable playbook for containment and recovery, following NIST guidelines.
 
-- <b>Microsoft Azure</b>
-  - [Creating Azure VMs](https://github.com/Mamutt7/Lab-1-Creating-VMs-in-Azure)
-- <b>Linux System Management</b>
-  - [Linux SM Script](https://github.com/Mamutt7/Linux-System-Management-Script-Collection)
-  - [Linux System Monitoring](https://github.com/Mamutt7/Linux-System-Monitoring-Script/blob/main/README.md)
-  - [Linux File Management practice](https://github.com/Mamutt7/File-Management-and-Permissions-Script/blob/main/README.md)
-  - [Install Software in a Linux Distribution](https://github.com/Mamutt7/Install-Software-in-a-Linux-distribution)
-  - [Filter with grep](https://github.com/Mamutt7/Filter-with-grep)
-  - [Manage Files with Linux commands](https://github.com/Mamutt7/Manage-Files-with-Linux-commands)
-  - [Managing authorization](https://github.com/Mamutt7/Manage-authorization)
-  - [Add and Manage Users](https://github.com/Mamutt7/Add-and-manage-users-with-Linux-commands)
-  - [Using man, whatis, and apropos](https://github.com/Mamutt7/Get-help-in-the-Linux-Command-Line)
-- <b>SQL
-  - [Performing a SQL Query](https://github.com/Mamutt7/Perform-a-SQL-Query)
-  - [Filter a SQL Query](https://github.com/Mamutt7/Filter-a-SQL-Query/blob/main/README.md)
-  - [Applying more filters in SQL](https://github.com/Mamutt7/Apply-more-filters-in-SQL/blob/main/README.md)
-  - [Filter with AND, OR, and NOT](https://github.com/Mamutt7/Filter-with-AND-OR-and-NOT)
-  - [Complete a SQL join](https://github.com/Mamutt7/Complete-a-SQL-join/blob/main/README.md)
-- <b>Working with Active Directory<b>
-  - [Preparing AD Infrastructure in Azure](https://github.com/Mamutt7/Lab-5.1-Preparing-AD-Infrastructure-in-Azure)
-  - [Deploying Active Directory](https://github.com/Mamutt7/Lab-5.2-Deploying-Active-Directory)
-  - [Enabling and Allowing Accounts on AD](https://github.com/Mamutt7/Lab-5.3-Enabling-and-Unlocking-Accounts)
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/Mamutt7/Lab-3.1-osTicket-Setup)
-  - [osTicket: Post-Installation Configuration](https://github.com/Mamutt7/Lab-3.2-osTicket-Post-Installation)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/Mamutt7/Lab-3.3-Ticket-and-Ticket-Life-Cycle)
-- <b>Networking labs<b>
-  - [Network File Share and Permissions](https://github.com/Mamutt7/Lab-7-Network-File-Shares-and-Permissions)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Mamutt7/Lab-2-Azure-Networking-with-VMs)
-  - [Building intution with DNS](https://github.com/Mamutt7/Lab-6-Building-intuition-for-DNS)
-  - [Setup and Usage of ProtonVPN](https://github.com/Mamutt7/Lab-4-VPN-Setup-and-Usage-ProtonVPN-)
-- <b>Cloud Automation</b>
-  - [Automation with Azure CLI](https://github.com/Mamutt7/Automation-with-Azure-CLI)
-- <b>Infrastructure as Code (IaC)</b>
-  - [Azure Bicep in Azure CLI](https://github.com/Mamutt7/Azure-Bicep-Beginner-Project)
-- <b>CI/CD</b>
-  - [Github Actions to Azure App Service: Deployment of Web App](https://github.com/Mamutt7/Deployment-of-Web-App)
+- **[Analyzing Packets with Wireshark](https://github.com/Mamutt7/Analyzing-Packets-with-Wireshark/blob/main/README.md)**  
+  - Conducted packet analysis to detect unusual traffic patterns and potential threats.  
+  - **Tools:** Wireshark, TCP/IP protocols, DNS  
+  - **Outcome:** Improved detection and understanding of network behavior during security incidents.
 
+### Networking and Threat Intelligence
+- **[Building Intuition with DNS](https://github.com/Mamutt7/Lab-6-Building-intuition-for-DNS)**  
+  - Explored DNS functionality to detect and resolve potential name resolution attacks.  
+  - **Tools:** nslookup, dig, and Wireshark.  
+  - **Outcome:** Strengthened skills in identifying DNS spoofing and misconfigurations.
 
-<h2>🤳Connect with me:</h2>
+- **[Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Mamutt7/Lab-2-Azure-Networking-with-VMs)**  
+  - Configured NSGs in Azure to filter traffic and secure sensitive workloads.  
+  - **Tools:** Azure Portal, PowerShell  
+  - **Outcome:** Enhanced understanding of secure network architecture for threat prevention.
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+### Security Tools & Compliance
+- **[Setup and Usage of ProtonVPN](https://github.com/Mamutt7/Lab-4-VPN-Setup-and-Usage-ProtonVPN-)**  
+  - Configured ProtonVPN to evaluate secure communication protocols.  
+  - **Outcome:** Strengthened knowledge of VPN tunneling for encrypted communication.
 
-[instagram]: https://www.instagram.com/mamutt7
-[linkedin]: https://linkedin.com/in/ChristianMamutt
+- **[osTicket: Ticket Lifecycle Examples](https://github.com/Mamutt7/Lab-3.3-Ticket-and-Ticket-Life-Cycle)**  
+  - Demonstrated effective ticket handling, critical for SOC operations.  
+  - **Tools:** osTicket, ITIL Framework  
+
+---
+
+## 👨‍💻 IT Administration Projects
+
+### Active Directory
+- **[Preparing AD Infrastructure in Azure](https://github.com/Mamutt7/Lab-5.1-Preparing-AD-Infrastructure-in-Azure)**  
+  - Built a functional AD environment in Azure to manage users and permissions.  
+  - **Tools:** Active Directory, Azure CLI  
+
+- **[Deploying Active Directory](https://github.com/Mamutt7/Lab-5.2-Deploying-Active-Directory)**  
+  - Deployed AD for secure identity and access management.  
+
+- **[Enabling and Allowing Accounts on AD](https://github.com/Mamutt7/Lab-5.3-Enabling-and-Unlocking-Accounts)**  
+  - Managed user access to streamline SOC incident escalation processes.
+
+---
+
+## ☁️ Cloud Security & Automation Projects
+
+### Cloud Security
+- **[Automation with Azure CLI](https://github.com/Mamutt7/Automation-with-Azure-CLI)**  
+  - Automated tasks for provisioning secure Azure resources.  
+
+- **[Azure Bicep in Azure CLI](https://github.com/Mamutt7/Azure-Bicep-Beginner-Project)**  
+  - Built secure infrastructure using Infrastructure-as-Code principles.
+
+---
+
+## 📊 SQL Projects
+
+### Data Analysis & Filtering
+- **[Filter a SQL Query](https://github.com/Mamutt7/Filter-a-SQL-Query/blob/main/README.md)**  
+  - Queried and filtered database logs for potential anomalies.  
+
+- **[Applying More Filters in SQL](https://github.com/Mamutt7/Apply-more-filters-in-SQL/blob/main/README.md)**  
+  - Enhanced log analysis by applying advanced query filters.
+
+---
+
+## 📫 Connect with me:
+- [LinkedIn](https://linkedin.com/in/Christianmamutt)  
+- [Instagram](https://www.instagram.com/mamutt7)
