@@ -26,6 +26,11 @@ I am passionate about securing systems and detecting threats. Outside of work, h
   - **Outcome:** Improved detection and understanding of network behavior during security incidents.
 
 ### Networking and Threat Intelligence
+- **[tcpdump: Capturing and Analyzing Network Packets](https://github.com/Mamutt7/tcpdump-Capturing-a-packet)**  
+  - Captured, filtered, and analyzed live network traffic using `tcpdump`.  
+  - **Tools:** tcpdump, curl, Linux Terminal  
+  - **Outcome:** Gained hands-on experience in live traffic analysis, `.pcap` file handling, and identifying packet-level details to understand network behavior.  
+
 - **[Building Intuition with DNS](https://github.com/Mamutt7/Lab-6-Building-intuition-for-DNS)**  
   - Explored DNS functionality to detect and resolve potential name resolution attacks.  
   - **Tools:** nslookup, dig, and Wireshark.  
