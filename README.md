@@ -5,6 +5,7 @@
 - <b>Incident Response</b>
 
   - [Ransomware Incident Response Journal](https://github.com/Mamutt7/Ransomware-Incident-Response-Journal)
+  - [Analyzing Packets with Wireshark](https://github.com/Mamutt7/Analyzing-Packets-with-Wireshark/blob/main/README.md)
 
 
 <h2>👨‍💻 Information Technology Projects:</h2>
