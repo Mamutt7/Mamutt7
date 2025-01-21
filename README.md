@@ -21,6 +21,11 @@ I am passionate about securing systems and detecting threats. Outside of work, h
   - **Tools**: Wireshark, TCP/IP protocols, DNS  
   - **Outcome**: Improved detection and understanding of network behavior during security incidents.
 
+- **[Perform a Query with Splunk](https://github.com/Mamutt7/Perform-a-query-with-Splunk)**  
+  Queried and analyzed logs using Splunk to detect anomalies and security threats.  
+  - **Tools**: Splunk, log management, search filters  
+  - **Outcome**: Developed proficiency in log querying for security monitoring and incident detection.
+
 ---
 
 ### Networking and Threat Intelligence
