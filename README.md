@@ -1,5 +1,5 @@
 # Christian Mamutt  
-**Cybersecurity Professional | Aspiring SOC Analyst**  
+**Cybersecurity Professional | SOC Analyst**  
 🔗 [LinkedIn](https://linkedin.com/in/Christianmamutt)  
 
 Passionate about securing systems and detecting threats.  
