@@ -2,13 +2,31 @@
 **Cybersecurity Professional | SOC Analyst**  
 🔗 [LinkedIn](https://linkedin.com/in/Christianmamutt)  
 
-Passionate about securing systems and detecting threats.  
+Passionate about securing systems, detecting threats, and mitigating vulnerabilities.  
+
+---
+
+## 🔥 Featured Project  
+
+### **[Vulnerability Management Program Implementation](https://github.com/Mamutt7/Vulnerability-Management)**  
+🚀 **Enterprise-Level Vulnerability Management Simulation**  
+
+This project simulates the **end-to-end implementation** of a **comprehensive vulnerability management program**, from drafting policies to executing remediations and securing organizational buy-in.  
+
+- **Tools**: Nessus (Tenable), Azure Virtual Machines, PowerShell, Bash  
+- **Key Outcomes**:  
+  - Developed a **Vulnerability Management Policy** and secured **stakeholder buy-in**  
+  - Conducted **vulnerability scans using Nessus** and prioritized risk-based remediations  
+  - Implemented and verified **remediation measures**, reducing vulnerabilities by **80%**  
+  - Transitioned to **maintenance mode**, ensuring **continuous security improvements**  
+
+🔗 **[Project Repository](https://github.com/Mamutt7/Vulnerability-Management)**  
 
 ---
 
 ## 🔒 Cybersecurity & SOC Analyst Projects  
 
-### Incident Response  
+### Incident Response & Threat Detection  
 - **[Ransomware Incident Response Journal](https://github.com/Mamutt7/Ransomware-Incident-Response-Journal)**  
   Investigated a simulated ransomware attack using industry-standard IR techniques.  
   - **Tools**: Wireshark, Splunk, PowerShell  
@@ -19,19 +37,19 @@ Passionate about securing systems and detecting threats.
   - **Tools**: Wireshark, TCP/IP protocols, DNS  
   - **Outcome**: Improved detection and understanding of network behavior during security incidents.  
 
-- **[Perform a Query with Splunk](https://github.com/Mamutt7/Perform-a-query-with-Splunk)**  
-  Queried and analyzed logs using Splunk to detect anomalies and security threats.  
-  - **Tools**: Splunk, log management, search filters  
-  - **Outcome**: Developed proficiency in log querying for security monitoring.  
-
 - **[Threat Detection with Microsoft Sentinel](https://github.com/Mamutt7/Threat-Detection-Incident-Response-in-Microsoft-Sentinel)**  
   Configured Microsoft Sentinel for threat detection and automated incident response.  
   - **Tools**: Microsoft Sentinel, SIEM, Azure Security Center  
   - **Outcome**: Strengthened cloud-based security monitoring and incident detection.  
 
+- **[Perform a Query with Splunk](https://github.com/Mamutt7/Perform-a-query-with-Splunk)**  
+  Queried and analyzed logs using Splunk to detect anomalies and security threats.  
+  - **Tools**: Splunk, log management, search filters  
+  - **Outcome**: Developed proficiency in log querying for security monitoring.  
+
 ---
 
-### Networking and Threat Intelligence  
+### Networking & Threat Intelligence  
 - **[Using Suricata: Examine Alerts, Logs, and Rules](https://github.com/Mamutt7/using-Suricata-Examine-alerts-logs-and-rules/blob/main/README.md)**  
   Set up Suricata to analyze alerts and logs, and create custom detection rules.  
   - **Tools**: Suricata, log analysis, rule configuration  
