@@ -26,6 +26,17 @@ This project simulates the **end-to-end implementation** of a **comprehensive vu
 
 ## 🔒 Cybersecurity & SOC Analyst Projects  
 
+### Vulnerability Assessment & Scanning  
+- **[Scanning a Windows VM: Authenticated vs. Unauthenticated](https://github.com/Mamutt7/Scanning-a-Windows-VM-Authenticated-vs.-Unauthenticated)**  
+  Compared vulnerability detection results between authenticated and unauthenticated scans using Tenable.  
+  - **Tools**: Tenable, PowerShell, Windows Firewall  
+  - **Outcome**: Highlighted the increased detection accuracy of authenticated scans, identifying higher-severity vulnerabilities.  
+
+- **[Vulnerability Management Program Implementation](https://github.com/Mamutt7/Vulnerability-Management)**  
+  Executed a comprehensive vulnerability management program using Nessus for scans and remediation.  
+  - **Tools**: Nessus, Azure VM, PowerShell  
+  - **Outcome**: Achieved an 80% reduction in vulnerabilities through strategic remediation efforts.  
+
 ### Incident Response & Threat Detection  
 - **[Ransomware Incident Response Journal](https://github.com/Mamutt7/Ransomware-Incident-Response-Journal)**  
   Investigated a simulated ransomware attack using industry-standard IR techniques.  
@@ -41,11 +52,6 @@ This project simulates the **end-to-end implementation** of a **comprehensive vu
   Configured Microsoft Sentinel for threat detection and automated incident response.  
   - **Tools**: Microsoft Sentinel, SIEM, Azure Security Center  
   - **Outcome**: Strengthened cloud-based security monitoring and incident detection.  
-
-- **[Perform a Query with Splunk](https://github.com/Mamutt7/Perform-a-query-with-Splunk)**  
-  Queried and analyzed logs using Splunk to detect anomalies and security threats.  
-  - **Tools**: Splunk, log management, search filters  
-  - **Outcome**: Developed proficiency in log querying for security monitoring.  
 
 ---
 
