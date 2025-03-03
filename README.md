@@ -48,11 +48,6 @@ This project simulates the **end-to-end implementation** of a **comprehensive vu
   - **Tools**: Wireshark, TCP/IP protocols, DNS  
   - **Outcome**: Improved detection and understanding of network behavior during security incidents.  
 
-- **[Threat Detection with Microsoft Sentinel](https://github.com/Mamutt7/Threat-Detection-Incident-Response-in-Microsoft-Sentinel)**  
-  Configured Microsoft Sentinel for threat detection and automated incident response.  
-  - **Tools**: Microsoft Sentinel, SIEM, Azure Security Center  
-  - **Outcome**: Strengthened cloud-based security monitoring and incident detection.  
-
 ---
 
 ### Networking & Threat Intelligence  
