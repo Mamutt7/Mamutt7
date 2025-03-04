@@ -6,7 +6,7 @@ Passionate about securing systems, detecting threats, and mitigating vulnerabili
 
 ---
 
-## 🔥 Featured Project  
+## 🔥 Featured Projects  
 
 ### **[Vulnerability Management Program Implementation](https://github.com/Mamutt7/Vulnerability-Management)**  
 🚀 **Enterprise-Level Vulnerability Management Simulation**  
@@ -21,6 +21,22 @@ This project simulates the **end-to-end implementation** of a **comprehensive vu
   - Transitioned to **maintenance mode**, ensuring **continuous security improvements**  
 
 🔗 **[Project Repository](https://github.com/Mamutt7/Vulnerability-Management)**  
+
+---
+
+### **[Threat Hunting Scenario: Unauthorized TOR Usage](https://github.com/Mamutt7/Threat-Hunting-Scenario-TOR/tree/main)**  
+🚨 **Detection and Mitigation of Unauthorized TOR Usage**  
+
+This project involves a **threat hunt scenario** focusing on detecting unauthorized use of the TOR browser within a corporate network. The investigation was conducted using Microsoft Defender for Endpoint and Kusto Query Language (KQL).  
+
+- **Tools**: Microsoft Defender for Endpoint, KQL, Azure VMs, TOR Browser  
+- **Key Outcomes**:  
+  - Detected TOR installation and usage by analyzing file and process events.  
+  - Identified TOR network connections and established a timeline of events.  
+  - Isolated the compromised endpoint and notified management.  
+  - Created actionable queries for continuous monitoring of TOR-related activities.  
+
+🔗 **[Project Repository](https://github.com/Mamutt7/Threat-Hunting-Scenario-TOR/tree/main)**  
 
 ---
 
